@@ -1,5 +1,10 @@
 package com.gxa;
 
-public class T01 {
+import org.junit.Test;
 
+public class T01 {
+	@Test
+	public void t01(){
+		System.out.println("asasasas");
+	}
 }
